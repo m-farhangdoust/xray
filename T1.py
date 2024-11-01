@@ -1,0 +1,2 @@
+name="mehdi"
+print(namecd)
