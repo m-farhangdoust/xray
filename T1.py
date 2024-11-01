@@ -1,2 +1,3 @@
 name="mehdi"
-print(namecd)
+famil="farhagdoost"
+print(name)
