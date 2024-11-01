@@ -1,3 +1,4 @@
 name="mehdi"
 famil="farhagdoost"
 print(name)
+print (famil)
