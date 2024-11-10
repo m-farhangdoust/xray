@@ -6,3 +6,4 @@ print ("hi")
 print ("mehdi")
 number=123
 print ("hi today")
+print("vs code")
